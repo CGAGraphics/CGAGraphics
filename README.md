@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://discord.com/channels/1215797801024356514/1215810289057005609
 - ⚡ Fun fact: Bread
-- ❗ Don't bother tring to email me I only check them every so often
+- ❗ If you need clarification DM me on my discord
 
 <!---
 CGAGraphics/CGAGraphics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
